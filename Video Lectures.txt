@@ -1,6 +1,3 @@
-# Udacity-AWS-Machine-Learning-Foundations-course
-Codes and Exercise Solutions from the course
-
 Everyone is welcome!
 All learners are welcome to take the foundations course, but completion of a beginning level programming course is recommended to fully engage in all of the coursework. If you want to brush up on your Python skills, we encourage you to review our free Introduction to Python course.
 Learn More About Machine Learning
@@ -11,4 +8,3 @@ You may also find our "Version Control with Git" : https://www.udacity.com/cours
 Lesson 1
 Welcome to Udacity : https://youtu.be/9QadFJRKrEA
 Interview with a ML Engineer : https://youtu.be/oKG---Z9uAQ
-
